@@ -1,0 +1,7 @@
+git init
+copy path from git and paste on terminal
+git branch -m main
+git status 
+git add .
+git commit -m " react file"
+git push origin main
